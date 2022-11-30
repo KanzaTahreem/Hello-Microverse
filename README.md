@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> A Microverse project to test the basic knowledge of Linters, Github Flow & best practices for making a professional repository.
+> A project to test the basic knowledge of Linters, Github Flow & best practices for making a professional repository.
 
 ## Built With
 
